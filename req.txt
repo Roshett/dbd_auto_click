@@ -1,0 +1,8 @@
+opencv-python
+numpy
+mss
+pillow
+pyautogui
+pywin32
+PyQt5
+opencv-contrib-python
